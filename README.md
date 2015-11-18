@@ -5,3 +5,6 @@ To build:
 - `npm install`
 - `jekyll serve --watch`
 - `grunt watch`
+
+To visit:
+[k2byew.surge.sh](http://k2byew.surge.sh)
