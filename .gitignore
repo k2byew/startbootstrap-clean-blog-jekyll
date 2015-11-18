@@ -2,3 +2,4 @@ _site
 node_modules
 css/clean-blog.css
 css/clean-blog.min.css
+js/clean-blog.min.js
