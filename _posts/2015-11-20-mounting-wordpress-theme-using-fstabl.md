@@ -4,7 +4,7 @@ date: 2015-11-20 18:02:56
 layout: post
 author: "k2byew"
 ---
-Got [XAMPP](www.apachefriends.org) and working on a WordPress theme, but also need to commit to git repository?
+Got [XAMPP](http://www.apachefriends.org) and working on a WordPress theme, but also need to commit to git repository?
 
 Add this line in /etc/fstab to easily commit changes.
 
