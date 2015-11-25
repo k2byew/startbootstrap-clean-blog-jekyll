@@ -8,28 +8,28 @@ author: "k2byew"
 
 Adapted to use username and password to authenticate:
 
-  $SQLServer = "MySQLServer"
-  $SQLDBName = "MyDBName"
-  $SqlQuery = "select @@version"
-  
-  $SqlConnection = New-Object System.Data.SqlClient.SqlConnection
-  $SqlConnection.ConnectionString = "Server = $SQLServer; Database = $SQLDBName; User ID = $Username; Password = $password"
-  
-  $SqlCmd = New-Object System.Data.SqlClient.SqlCommand
-  $SqlCmd.CommandText = $SqlQuery
-  $SqlCmd.Connection = $SqlConnection
-  
-  $SqlAdapter = New-Object System.Data.SqlClient.SqlDataAdapter
-  $SqlAdapter.SelectCommand = $SqlCmd
-  
-  $DataSet = New-Object System.Data.DataSet
-  $SqlAdapter.Fill($DataSet)
-  
-  $SqlConnection.Close()
-  
-  clear
-  
-  $DataSet.Tables[0]
+    $SQLServer = "MySQLServer"
+    $SQLDBName = "MyDBName"
+    $SqlQuery = "select @@version"
+    
+    $SqlConnection = New-Object System.Data.SqlClient.SqlConnection
+    $SqlConnection.ConnectionString = "Server = $SQLServer; Database = $SQLDBName; User ID = $Username; Password = $password"
+    
+    $SqlCmd = New-Object System.Data.SqlClient.SqlCommand
+    $SqlCmd.CommandText = $SqlQuery
+    $SqlCmd.Connection = $SqlConnection
+    
+    $SqlAdapter = New-Object System.Data.SqlClient.SqlDataAdapter
+    $SqlAdapter.SelectCommand = $SqlCmd
+    
+    $DataSet = New-Object System.Data.DataSet
+    $SqlAdapter.Fill($DataSet)
+    
+    $SqlConnection.Close()
+    
+    clear
+    
+    $DataSet.Tables[0]
 
 
 Getting security errors about *.ps1 not signed?
