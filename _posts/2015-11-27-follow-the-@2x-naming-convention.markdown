@@ -9,7 +9,7 @@ author: "k2byew"
 
 Can't load high resolution file even though WordPress plugin/themes support it? Especially after you've already selected the high resolution version manually?
 
-Rename high resolution file to `logo@2x.jpg`, and make sure it's sitting in the same path as logo.png
+Rename high resolution file to `logo@2x.jpg`, and make sure it's sitting in the same path as `logo.png`
 
 Using a WordPress theme which uses [retina.js](http://imulus.github.io/retinajs/)?
 
