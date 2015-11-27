@@ -1,5 +1,5 @@
 ---
-title: "Test SQL connectivity using Powershell"
+title: "Test SQL Connectivity Using Powershell"
 date: 2015-11-25 18:21:58
 layout: post
 author: "k2byew"
