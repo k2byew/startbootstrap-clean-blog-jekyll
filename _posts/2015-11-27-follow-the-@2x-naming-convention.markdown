@@ -1,5 +1,5 @@
 ---
-title: "Follow the @2x naming convention"
+title: "Follow the @2x Naming Convention"
 date: 2015-11-27 18:35:58
 layout: post
 author: "k2byew"
