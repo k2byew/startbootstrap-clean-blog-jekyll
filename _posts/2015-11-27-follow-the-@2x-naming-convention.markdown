@@ -5,9 +5,9 @@ layout: post
 author: "k2byew"
 ---
 - Normal logo file: `logo.png`
-- High resolution logo file: `logo2x.jpg`
+- High resolution logo file: `logo2x.jpg` or `logo-high-resolution.jpg`
 
-Can't load high resolution file even though WordPress plugin/themes support it? Especially after you've already selected the high resolution version manually?
+Can't load high resolution file even though WordPress plugin/themes support it, and let you select your high resolution file? Especially even after you've already selected the high resolution version manually?
 
 Rename high resolution file to `logo@2x.jpg`, and make sure it's sitting in the same path as `logo.png`
 
