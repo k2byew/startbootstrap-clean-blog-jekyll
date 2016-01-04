@@ -16,6 +16,7 @@ Install Maven 2 as an alternative in `/usr/share/maven2`:
 
 
 Want Maven3 by default, so set Maven2's priority to 100 and manually select it later:
+
 `update-alternatives --install /usr/bin/mvn mvn /usr/share/maven2/bin/mvn 100 --slave /usr/bin/mvnDebug mvnDebug /usr/share/maven2/bin/mvnDebug`
 
 To change which Maven version is used:
