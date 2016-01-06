@@ -1,5 +1,5 @@
 ---
-title: "Move a Sub-directory in a SVN repository to a Git repository"
+title: "Move a Sub-directory of a SVN repository to a Git repository"
 date: 2016-01-07 17:24:34
 layout: post
 author: "k2byew"
