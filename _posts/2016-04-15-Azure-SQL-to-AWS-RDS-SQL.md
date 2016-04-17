@@ -13,7 +13,7 @@ Exporting then importing a data tier application/BACPAC file can [cause issues](
 Luckily [SQL Database Migration Wizard](http://sqlazuremw.codeplex.com/) makes things easy by creating the scripts required to repopulate the table structure, and then use Bulk Copy `bcp` to move the data. Make sure the database's master account's password does not contain characters that need escaping in a batch script, or else the process will fail.
 
 
-Can login to AWS RDS SQL using SQL Server Management Studio, can use Putty to [port forward](https://esha.zendesk.com/hc/en-us/articles/202977089-Granting-Access-to-Additional-Users-with-SQL-Server-Management-Studio) if necessary. SQL Server Management Studio doesn't seem to understand `localhost:1234`, use `127.0.0.1,1234` instead. Use a comma instead of a colon before the port number!
+Can login to AWS RDS SQL using SQL Server Management Studio, can use Putty to [port forward](https://esha.zendesk.com/hc/en-us/articles/202977089-Granting-Access-to-Additional-Users-with-SQL-Server-Management-Studio) if required. SQL Server Management Studio doesn't seem to understand `localhost:1234`, use `127.0.0.1,1234` instead. Use a comma instead of a colon before the port number!
 
 
 Create new users, and give them the [correct permissions](https://esha.zendesk.com/hc/en-us/articles/202977089-Granting-Access-to-Additional-Users-with-SQL-Server-Management-Studio) to [access](https://technet.microsoft.com/en-us/library/ms189121(v=sql.90).aspx) the imported database.
