@@ -4,15 +4,9 @@ date: 2016-04-24 18:11:26
 layout: post
 author: "k2byew"
 ---
-Following the steps here not enough:
+Following the steps [here](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) not enough.
 
-https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin
-
-
-Got some tips here:
-
-http://d.hatena.ne.jp/torazuka/20150724/ec2
-http://stackoverflow.com/questions/6277456/nokogiri-installation-fails-libxml2-is-missing
+Got some [tips](http://d.hatena.ne.jp/torazuka/20150724/ec2) [here](http://stackoverflow.com/questions/6277456/nokogiri-installation-fails-libxml2-is-missing) too.
 
 End up doing something similar to:
     
