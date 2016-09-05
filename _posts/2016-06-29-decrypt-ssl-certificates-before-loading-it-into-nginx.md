@@ -1,5 +1,5 @@
 ---
-title: "Decrypt Password Before Loading it Into Nginx"
+title: "Decrypt SSL Certificates Before Loading it Into Nginx"
 date: 2016-06-29 18:11:13
 layout: post
 author: "k2byew"
