@@ -1,6 +1,6 @@
 ---
 title: "Manually Sync Linux System Time"
-date: 2016-06-20 18:15:84
+date: 2016-06-20 18:15:44
 layout: post
 author: "k2byew"
 ---
