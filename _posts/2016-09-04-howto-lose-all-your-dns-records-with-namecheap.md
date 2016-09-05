@@ -6,7 +6,7 @@ author: "k2byew"
 ---
 1. Have a domain with WhoisGuard on
 2. Keep the domain active but let WhoisGuard expire
-3. Wait a few days until ICAAN error page appear
+3. Wait a few days until ICAAN error page appears
 4. Purchase WhoisGuard again
 4. Stuck scratching your head confused why their help page says with WhoisGuard there shouldn't be any ICAAN errors
 5. Be shocked that all DNS records are gone!
