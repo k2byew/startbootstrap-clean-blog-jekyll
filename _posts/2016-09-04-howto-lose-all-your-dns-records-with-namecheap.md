@@ -1,6 +1,6 @@
 ---
 title: "Howto: Lose all your DNS records with Namecheap"
-date: 2016-08-09 18:27:12
+date: 2016-09-04 18:27:12
 layout: post
 author: "k2byew"
 ---
