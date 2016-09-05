@@ -1,6 +1,6 @@
 ---
 title: "Running Headless JMeter on a Mac"
-date: 2016-08-09 18:14:27
+date: 2016-09-03 18:14:27
 layout: post
 author: "k2byew"
 ---
