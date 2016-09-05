@@ -8,6 +8,6 @@ Locked down IAM policies on S3, but still got access to some S3 buckets?
 
 Might be allowed by individual S3 bucket policies.
 
-S3 buckets open to the world, obviuosly won't be limited to IAM user just because the user has limited access locked down by IAM
+S3 buckets open to the world, obviously won't be limited to IAM users just because the user has limited access locked down by IAM.
 
-More info: https://blogs.aws.amazon.com/security/post/TxPOJBY6FE360K/IAM-policies-and-Bucket-Policies-and-ACLs-Oh-My-Controlling-Access-to-S3-Resource
+More info: [https://blogs.aws.amazon.com/security/post/TxPOJBY6FE360K/IAM-policies-and-Bucket-Policies-and-ACLs-Oh-My-Controlling-Access-to-S3-Resource](https://blogs.aws.amazon.com/security/post/TxPOJBY6FE360K/IAM-policies-and-Bucket-Policies-and-ACLs-Oh-My-Controlling-Access-to-S3-Resource)
