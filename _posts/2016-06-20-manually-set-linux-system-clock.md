@@ -1,5 +1,5 @@
 ---
-title: "Manually Sync Linux System Time"
+title: "Manually Set Linux System Clock"
 date: 2016-06-20 18:15:44
 layout: post
 author: "k2byew"
