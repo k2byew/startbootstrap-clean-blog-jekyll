@@ -1,14 +1,14 @@
 ---
-title: "Update and Test logrotate Config"
+title: "Update and Test Logrotate Config"
 date: 2016-09-12 18:44:32
 layout: post
 author: "k2byew"
 ---
-Got lots of logs written into /var/log/messages?
+Got lots of logs written into `/var/log/messages`?
 
 Might need to tune logrotate configuration for this specific log file.
 
-Default values in /etc/logrotate.conf might not be suitable.
+Default values in `/etc/logrotate.conf` might not be suitable.
 
 Eg. weekly log rotation, no compression - this will fill up a 8GB EC2 system drive before you know it!
 
