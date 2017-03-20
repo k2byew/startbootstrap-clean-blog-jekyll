@@ -11,6 +11,6 @@ Using `bc` but `scale` isn't working? Have to use divide for for scale to work:
     hundredAndTenPercent=$(bc <<< "scale=0;$fullAmount * 1.1 / 1")
 
 
-Reference
+Reference:
 
 [http://askubuntu.com/questions/217570/bc-set-number-of-digits-after-decimal-point](http://askubuntu.com/questions/217570/bc-set-number-of-digits-after-decimal-point)
