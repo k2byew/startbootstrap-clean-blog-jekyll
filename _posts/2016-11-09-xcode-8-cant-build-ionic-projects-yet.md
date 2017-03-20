@@ -11,7 +11,7 @@ Can put in teamID but can't do DISTRO builds, so no good for CI.
 Hopefully a workaround will appear soon.
 
 
-[References]
+References
 
 [https://dpogue.ca/articles/cordova-xcode8.html](https://dpogue.ca/articles/cordova-xcode8.html)
 
