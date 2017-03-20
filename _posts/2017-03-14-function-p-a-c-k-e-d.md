@@ -16,6 +16,6 @@ Need to unpack some code you previously compressed? Use this bookmarklet to enab
 
 
 
-Reference
+Reference:
 
 [http://yaisb.blogspot.co.nz/2006/10/defeating-dean-edwards-javascript.html](http://yaisb.blogspot.co.nz/2006/10/defeating-dean-edwards-javascript.html)
