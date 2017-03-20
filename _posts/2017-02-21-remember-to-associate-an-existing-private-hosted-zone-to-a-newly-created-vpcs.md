@@ -4,11 +4,11 @@ date: 2017-02-21 18:44:18
 layout: post
 author: "k2byew"
 ---
-DNS records inside a private hosted zone cannot be resolve for EC2 instances inside a newly created VPC
+DNS records inside a private hosted zone cannot be resolve for EC2 instances inside a newly created VPC.
 
-The new VPC needs to be manually associated to a previously created private hosted zones before DNS will be resolved, doable via Route53 web console
+The new VPC needs to be manually associated to a previously created private hosted zones before DNS will be resolved, doable via Route53 web console.
 
-Also need to enable enableDnsHostnames, doable via VPC web console
+Also need to enable enableDnsHostnames, doable via VPC web console.
 
 
 References:
