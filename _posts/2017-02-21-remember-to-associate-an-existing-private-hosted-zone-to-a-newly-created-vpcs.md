@@ -11,7 +11,7 @@ The new VPC needs to be manually associated to a previously created private host
 Also need to enable enableDnsHostnames, doable via VPC web console
 
 
-References
+References:
 
 [http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-private.html](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-private.html)
 
